@@ -1,0 +1,25 @@
+/*
+ * mixin.sass
+ * main: 主要
+ * rule: 常规
+ * minor: 次要
+ * place: 占位
+ */
+@import './reset.scss';
+// border-color
+$hoverB: #c0c4cc;
+$mainB: #DCDFE6;
+$ruleB: #E4E7ED;
+$minorB: #EBEEF5;
+$placeB: #F2F6FC;
+// color
+$mainC: #303133;
+$mainC: #606266;
+$minorC: #909399;
+$placeC: #C0C4CC;
+// background-color
+$success: #67C23A;
+$warning: #E6A23C;
+$danger: #F56C6C;
+$error: #909399;
+$theme: #409EFF;

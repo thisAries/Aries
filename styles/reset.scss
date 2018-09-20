@@ -1,0 +1,17 @@
+/*
+ * author: https://github.com/thisAries
+ */
+html, body {
+  padding: 0;
+  border: 0;
+  margin: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+/*取消H5浏览器聚焦样式*/
+img,button, textarea, input ,a{
+  vertical-align: middle;
+  border: none;
+  outline: medium !important;
+  text-decoration: none;
+}
